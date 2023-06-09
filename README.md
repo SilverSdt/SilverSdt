@@ -17,17 +17,19 @@ I am a French developer working in different projects to improve myself in diffe
  [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/SilverSdt)
 
 ## Stats
-<p align="center">
-  <a href="https://github.com/SilverSdt">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilverSdt&theme=transparent" />
-  </a>
-  <a href="https://github.com/SilverSdt">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilverSdt&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/SilverSdt">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SilverSdt&theme=transparent" />
-  </a>
-</p>
+<details>
+  <p align="center">
+    <a href="https://github.com/SilverSdt">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilverSdt&theme=transparent" />
+    </a>
+    <a href="https://github.com/SilverSdt">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilverSdt&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/SilverSdt">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SilverSdt&theme=transparent" />
+    </a>
+  </p>
+</details>
 <!--
 **SilverSdt/SilverSdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
