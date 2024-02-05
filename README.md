@@ -41,3 +41,12 @@ I am a French developer working in different projects to improve myself in diffe
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SilverSdt&theme=transparent" />
   </a>
 </p>
+
+## Support Me
+<a href="https://www.buymeacoffee.com/bodartjeret"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=FBCLGYU7UCQRE"><img src="https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png" width="200" /></a>
+
+
+
+
